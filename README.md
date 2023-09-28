@@ -1,5 +1,5 @@
 # ECE535
-<font size=3>Project Proposal:</font> 
+<font size=3>Pr1oject Proposal:</font> 
 Analyzing TartanVO Performance Across Diverse Datasets
 Introduction:
 Our project aims to comprehensively understand and evaluate the performance of TartanVO, a state-of-the-art learning-based Visual Odometry (VO) system. We will conduct a thorough investigation, encompassing literature review, algorithm understanding, implementation, and in-depth evaluation to provide valuable insights into its efficacy across diverse datasets.
